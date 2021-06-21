@@ -1,4 +1,4 @@
-# ProjetoIntegrado
+# Projeto Integrado
 
 Trabalho elaborado no âmbito da unidade curricular Projeto Integrado do mestrado de Matemática e Computação da Universidade do Minho
 
