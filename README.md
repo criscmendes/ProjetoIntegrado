@@ -11,3 +11,5 @@ Duque de Bragança PG44584
 João Bastos PG44585
 
 Viviana Magalhães PG40868
+
+Por questões de privacidade, não colocamos os cvs iniciais.
